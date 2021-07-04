@@ -1,0 +1,102 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+.logo-width {
+    width: 20%;
+}
+
+.navbar-brand {
+    width: 70%;
+}
+
+.navbar-nav a:hover {
+    background: #21B573;
+    border-radius: 33px;
+    color: white !important;
+    padding: 7px 20px;
+}
+
+.highlight-green {
+    color: #21B573;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+#header h1 {
+    font-size: 75px;
+    font-weight: 700;
+}
+
+#header button {
+    background-color: #21B573;
+    border-radius: 30px;
+    color: white;
+    padding: 12px 36px;
+}
+
+.button-green {
+    background-color: #21B573;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 20px;
+    margin: 10px 0px;
+}
+
+.col-lg-6,
+.col-md-12 {
+    margin-bottom: 100px;
+}
+
+
+
+.image-width {
+    width: 66px;
+}
+
+#books .card {
+    border: none;
+    background: #F8FFFB;
+    border-radius: 10px;
+    height: 270px;
+
+
+}
+
+#books .card:hover {
+    background: white;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.small-font {
+    font-size: 0.8rem;
+    color: #585859;
+    ;
+}
+
+.font-small {
+    font-size: 0.8rem;
+
+}
+
+#testimonial .image-size {
+    width: 100px;
+
+}
+
+.box-sizing {
+    width: 60%;
+}
+
+footer {
+    background-color: #282531;
+    height: 369px;
+}
+
+.nounderline {
+    text-decoration: none;
+    color: white;
+}
